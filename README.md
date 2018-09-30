@@ -1,6 +1,6 @@
 # Zuker's Handbook
 
-- [values.md](Values)
+- [Values](values.md)
 - Tools
-    - [tools/slack.md](Slack)
-    - [tools/github.md](Github)
+    - [Slack](tools/slack.md)
+    - [Github](tools/github.md)
